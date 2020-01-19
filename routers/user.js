@@ -13,6 +13,7 @@ userRouter
     .get('/user/get-pic', userController.getPic)
     .get('/user/logout', userController.logout)
     .get('/user/login', async ctx => {
+        let { req } = ctx;
         let host = req.connect.remoteAddress ||
             req.socket.remoteAddress ||
             req.connect.socket.remoteAddress;

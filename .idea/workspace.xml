@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ee6952f5-9882-43c2-bf05-18fed4f19b05" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/public/img/baobei.jpeg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/views/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/views/login.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routers/user.js" beforeDir="false" afterPath="$PROJECT_DIR$/routers/user.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -91,7 +90,7 @@
       <workItem from="1578881093585" duration="6000" />
       <workItem from="1578882232025" duration="2000" />
       <workItem from="1578906415924" duration="13707000" />
-      <workItem from="1579070700501" duration="38827000" />
+      <workItem from="1579070700501" duration="39527000" />
     </task>
     <task id="LOCAL-00001" summary="显示访问ip">
       <created>1579421910175</created>
@@ -100,7 +99,21 @@
       <option name="project" value="LOCAL" />
       <updated>1579421910175</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="替换图片">
+      <created>1579422951152</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1579422951152</updated>
+    </task>
+    <task id="LOCAL-00003" summary="修复error">
+      <created>1579423262533</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1579423262533</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -119,7 +132,9 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="显示访问ip" />
-    <option name="LAST_COMMIT_MESSAGE" value="显示访问ip" />
+    <MESSAGE value="替换图片" />
+    <MESSAGE value="修复error" />
+    <option name="LAST_COMMIT_MESSAGE" value="修复error" />
   </component>
   <component name="WindowStateProjectService">
     <state x="209" y="62" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1579073449106">
@@ -130,11 +145,11 @@
       <screen x="0" y="0" width="1280" height="800" />
     </state>
     <state x="444" y="200" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.800@0.0.1280.800" timestamp="1579084639184" />
-    <state x="443" y="23" key="CommitChangelistDialog2" timestamp="1579422940757">
+    <state x="443" y="23" key="CommitChangelistDialog2" timestamp="1579423609063">
       <screen x="0" y="23" width="1280" height="713" />
     </state>
     <state x="443" y="0" key="CommitChangelistDialog2/0.0.1280.800@0.0.1280.800" timestamp="1579421909867" />
-    <state x="443" y="23" key="CommitChangelistDialog2/0.23.1280.713@0.23.1280.713" timestamp="1579422940757" />
+    <state x="443" y="23" key="CommitChangelistDialog2/0.23.1280.713@0.23.1280.713" timestamp="1579423609063" />
     <state width="609" height="192" key="GridCell.Tab.0.bottom" timestamp="1579073442971">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
@@ -199,10 +214,10 @@
       <screen x="0" y="0" width="1280" height="800" />
     </state>
     <state width="609" height="244" key="GridCell.Tab.3.right/0.0.1280.800@0.0.1280.800" timestamp="1579073424905" />
-    <state x="240" y="115" key="Vcs.Push.Dialog.v2" timestamp="1579422161113">
+    <state x="240" y="115" key="Vcs.Push.Dialog.v2" timestamp="1579423294750">
       <screen x="0" y="23" width="1280" height="713" />
     </state>
-    <state x="240" y="115" key="Vcs.Push.Dialog.v2/0.23.1280.713@0.23.1280.713" timestamp="1579422161113" />
+    <state x="240" y="115" key="Vcs.Push.Dialog.v2/0.23.1280.713@0.23.1280.713" timestamp="1579423294750" />
     <state x="666" y="60" width="670" height="676" key="search.everywhere.popup" timestamp="1579422862804">
       <screen x="0" y="23" width="1280" height="713" />
     </state>
