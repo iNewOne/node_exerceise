@@ -1,0 +1,15 @@
+CREATE TABLE IF NOT EXISTS users (
+id INT auto_increment PRIMARY KEY,
+username VARCHAR(20),
+password VARCHAR(20),
+email VARCHAR(30)
+)ENGINE=INNODB CHARSET=UTF8;
+
+CREATE TABLE IF NOT EXISTS musics (
+id INT auto_increment PRIMARY KEY,
+title VARCHAR(50),
+singer VARCHAR(30),
+time VARCHAR(10),
+file VARCHAR(100),
+filelrc VARCHAR(100)
+) ENGINE=INNODB CHARSET=UTF8;

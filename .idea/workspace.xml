@@ -1,7 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ee6952f5-9882-43c2-bf05-18fed4f19b05" name="Default Changelist" comment="" />
+    <list default="true" id="ee6952f5-9882-43c2-bf05-18fed4f19b05" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/script/createDB.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/files/upload_0a5d2ecd682deb72e00fb688582474fc.lrc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/files/upload_20d61cfe0c207f7be6e97ae2d2e4458c.lrc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/files/upload_43813d4e8a9c4462db0a381b806248b1.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/files/upload_48bd3f583d110b338985674e7eddb502.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/files/upload_4bac809b3719c0d13b8969158898cbdb.lrc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/files/upload_5271b24768936a4f32560f2591f8c5c2.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/files/upload_5e049f595a6f6b226da343032a0d5fbe.lrc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/files/upload_a4a5205da4cec675f47e56a139402ea4.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/files/upload_a68974c06f37c14c58e238dfab435426.lrc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/files/upload_ba3bc932dfe373575d9f9ebb2ada0051.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/files/upload_beb39a103831d051d83f7bb84c648ba0.lrc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/files/upload_d10217882fcc0233aff1a34a998ddf40.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/files/upload_d7a73ef5ea28aab514205bf1d3d82171.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/files/upload_df01c25ca0272b0b54fa5e992e3cc94f.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/files/upload_e8546fb4e256e166d5777f53a3f89e8e.lrc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/files/upload_f1726937324eef9f171fb12729d66bdb.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/files/upload_f214d1ff971f54c48157696bd96eee35.lrc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/files/upload_f5829babed8309b3aaa21618b803daf8.lrc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/routers/user.js" beforeDir="false" afterPath="$PROJECT_DIR$/routers/user.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,7 +38,13 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1VS8ON2eD2JWjK8W8f66soHOZjy" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -24,6 +53,7 @@
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="javascript.nodejs.core.library.configured.version" value="12.13.1" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -67,7 +97,7 @@
       <workItem from="1578881093585" duration="6000" />
       <workItem from="1578882232025" duration="2000" />
       <workItem from="1578906415924" duration="13707000" />
-      <workItem from="1579070700501" duration="36707000" />
+      <workItem from="1579070700501" duration="37055000" />
     </task>
     <servers />
   </component>
