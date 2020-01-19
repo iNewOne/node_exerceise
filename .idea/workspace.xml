@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ee6952f5-9882-43c2-bf05-18fed4f19b05" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/public/img/baobei.jpeg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/routers/user.js" beforeDir="false" afterPath="$PROJECT_DIR$/routers/user.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/views/login.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,7 +20,20 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="hiddenUrls">
+      <set>
+        <option value="git@github.com:iNewOne/node_exerceise.git" />
+      </set>
+    </option>
   </component>
   <component name="ProjectId" id="1VS8ON2eD2JWjK8W8f66soHOZjy" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -41,11 +55,11 @@
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/public/img" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/public/img" />
     </key>
   </component>
   <component name="ServiceViewManager">
@@ -77,12 +91,35 @@
       <workItem from="1578881093585" duration="6000" />
       <workItem from="1578882232025" duration="2000" />
       <workItem from="1578906415924" duration="13707000" />
-      <workItem from="1579070700501" duration="38179000" />
+      <workItem from="1579070700501" duration="38827000" />
     </task>
+    <task id="LOCAL-00001" summary="显示访问ip">
+      <created>1579421910175</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1579421910175</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="显示访问ip" />
+    <option name="LAST_COMMIT_MESSAGE" value="显示访问ip" />
   </component>
   <component name="WindowStateProjectService">
     <state x="209" y="62" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1579073449106">
@@ -93,6 +130,11 @@
       <screen x="0" y="0" width="1280" height="800" />
     </state>
     <state x="444" y="200" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.800@0.0.1280.800" timestamp="1579084639184" />
+    <state x="443" y="23" key="CommitChangelistDialog2" timestamp="1579422940757">
+      <screen x="0" y="23" width="1280" height="713" />
+    </state>
+    <state x="443" y="0" key="CommitChangelistDialog2/0.0.1280.800@0.0.1280.800" timestamp="1579421909867" />
+    <state x="443" y="23" key="CommitChangelistDialog2/0.23.1280.713@0.23.1280.713" timestamp="1579422940757" />
     <state width="609" height="192" key="GridCell.Tab.0.bottom" timestamp="1579073442971">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
@@ -157,10 +199,14 @@
       <screen x="0" y="0" width="1280" height="800" />
     </state>
     <state width="609" height="244" key="GridCell.Tab.3.right/0.0.1280.800@0.0.1280.800" timestamp="1579073424905" />
-    <state x="666" y="42" width="670" height="759" key="search.everywhere.popup" timestamp="1579405235357">
-      <screen x="0" y="0" width="1280" height="800" />
+    <state x="240" y="115" key="Vcs.Push.Dialog.v2" timestamp="1579422161113">
+      <screen x="0" y="23" width="1280" height="713" />
+    </state>
+    <state x="240" y="115" key="Vcs.Push.Dialog.v2/0.23.1280.713@0.23.1280.713" timestamp="1579422161113" />
+    <state x="666" y="60" width="670" height="676" key="search.everywhere.popup" timestamp="1579422862804">
+      <screen x="0" y="23" width="1280" height="713" />
     </state>
     <state x="666" y="42" width="670" height="759" key="search.everywhere.popup/0.0.1280.800@0.0.1280.800" timestamp="1579405235357" />
-    <state x="666" y="60" width="670" height="676" key="search.everywhere.popup/0.23.1280.713@0.23.1280.713" timestamp="1577237803868" />
+    <state x="666" y="60" width="670" height="676" key="search.everywhere.popup/0.23.1280.713@0.23.1280.713" timestamp="1579422862804" />
   </component>
 </project>
