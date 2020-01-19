@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ee6952f5-9882-43c2-bf05-18fed4f19b05" name="Default Changelist" comment="修复error">
-      <change beforePath="$PROJECT_DIR$/routers/user.js" beforeDir="false" afterPath="$PROJECT_DIR$/routers/user.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/particals/header.html" beforeDir="false" afterPath="$PROJECT_DIR$/views/particals/header.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -89,7 +89,7 @@
       <workItem from="1578881093585" duration="6000" />
       <workItem from="1578882232025" duration="2000" />
       <workItem from="1578906415924" duration="13707000" />
-      <workItem from="1579070700501" duration="39633000" />
+      <workItem from="1579070700501" duration="39834000" />
     </task>
     <task id="LOCAL-00001" summary="显示访问ip">
       <created>1579421910175</created>
