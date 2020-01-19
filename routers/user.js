@@ -2,6 +2,8 @@
 const Router = require('koa-router');
 let userRouter = new Router();
 let userController = require('../Controllers/user');
+let { appport } = require('../config');
+
 require('../models/db');
 userRouter
     .get('/user/register', userController.showRegister)
@@ -11,12 +13,12 @@ userRouter
     .get('/user/get-pic', userController.getPic)
     .get('/user/logout', userController.logout)
     .get('/user/login', async ctx => {
-        // let { req } = ctx;
-        // let host = req.connect.remoteAddress ||
-        //     req.socket.remoteAddress ||
-        //     req.connect.socket.remoteAddress;
+        let { req } = ctx;
+        let host = req.connect.remoteAddress ||
+            req.socket.remoteAddress ||
+            req.connect.socket.remoteAddress;
         ctx.render('login', {
-            host: '127.0.0.1:8888'
+            host: host + appport
         });
     });
 
